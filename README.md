@@ -9,14 +9,15 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 Here are the design previews from the challenge:  
 
+### Preview image  
+![Active States](design/preview.jpg)
+
 ### Desktop Design  
 ![Desktop Design](design/desktop-design.jpg)
 
 ### Mobile Design  
 ![Mobile Design](design/mobile-design.jpg)
 
-### Active States  
-![Active States](design/active-states.jpg)
 
 ---
 
@@ -37,12 +38,13 @@ Here are the design previews from the challenge:
 ---
 
 ## 📂 Project Structure
-📦 recipe-page
-┣ 📂 design # Challenge preview images
-┣ 📂 images # Project images (omelette, favicon, etc.)
-┣ 📜 index.html # Main HTML file
-┣ 📜 style.css # Stylesheet
-┗ 📜 README.md # Project documentation
+📦 recipe-page  
+ ┣ 📂 design        # Contains challenge preview images  
+ ┣ 📂 images        # Project assets (omelette, favicon, etc.)  
+ ┣ 📜 index.html    # Main HTML file  
+ ┣ 📜 style.css     # CSS stylesheet  
+ ┗ 📜 README.md     # Project documentation  
+
 
 ---
 
